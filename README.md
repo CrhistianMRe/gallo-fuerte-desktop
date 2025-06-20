@@ -1,7 +1,7 @@
-# Gallo Fuerte Desktop
+# Gallo Desktop
 
 ## Short Description
-Gallo Fuerte Desktop is a desktop administration application built with JavaFX. It uses Retrofit for REST API communication and Spring Boot for dependency injection. The project is managed with Maven.
+Gallo Desktop is a desktop administration application built with JavaFX. It uses Retrofit for REST API communication and Spring Boot for dependency injection. The project is managed with Maven.
 
 ## Technologies 
 - JavaFX  
